@@ -1,6 +1,4 @@
-<h1>
-    <span style = font-size:30px> Lab 2 Report: Troubleshooting Code Collaboratively </span>
-</h1>
+## Lab 2 Report: Troubleshooting Code Collaboratively
 
 ## Introducation
 
